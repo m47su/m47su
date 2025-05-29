@@ -4,6 +4,7 @@
   </a>
 </div>
 <img align="center" alt="" src="./src/header2.gif" style="display: block; margin: auto;">
+
 #
 
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas no IFBA. Estudo nas horas vagas e me aventuro a criar projetos!
