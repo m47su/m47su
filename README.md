@@ -39,6 +39,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="mysql logo"  />
 </div>
 
 #
@@ -59,5 +61,5 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m47su/m47su/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m47su/m47su/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/m47su/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/m47su/m47su/output/github-contribution-grid-snake.svg">
 </picture>
