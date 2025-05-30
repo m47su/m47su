@@ -7,7 +7,7 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas no IFBA. Estudo nas horas vagas e me aventuro a criar projetos!
+<p align="center">Estudante universitária de Análise e Desenvolvimento de Sistemas no IFBA e Técnica em Desenvolvimento de Sistemas pelo SENAI. Estudo nas horas vagas e me aventuro a criar projetos!
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 #
