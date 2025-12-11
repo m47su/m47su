@@ -66,11 +66,11 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=m47su&show_icons=true&hide_title=true&hide=issues&bg_color=0d1117&title_color=FF00F6&text_color=FFF&icon_color=FF00F6&theme=synthwave&disable_animations=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=m47su&show_icons=true&hide_title=true&hide=issues&bg_color=0d1117&title_color=FF00F6&text_color=FFF&icon_color=FF00F6&theme=synthwave&disable_animations=true&count_private=true" alt="GitHub Stats" />
   
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m47su&layout=compact&hide_title=false&langs_count=6&card_width=320&hide=html,css&bg_color=0d1117&title_color=FF00F6&text_color=FFF&theme=synthwave&disable_animations=true" alt="Top Langs" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=m47su&layout=compact&hide_title=false&langs_count=6&card_width=320&hide=html,css&bg_color=0d1117&title_color=FF00F6&text_color=FFF&theme=synthwave&disable_animations=true" alt="Top Langs" />
 </div>
 
 #
