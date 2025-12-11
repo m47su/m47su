@@ -18,7 +18,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   
 #
 
-<img align="right" alt="" height="250px" src="./src/miku-invertido.gif">
+<img align="right" alt="" height="250px" margin bottom="10px" src="./src/miku-invertido.gif">
 
 <h3 align="left">Connect with me!</h3>
 
