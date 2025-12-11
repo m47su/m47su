@@ -5,10 +5,10 @@
 </div>
 
 <div align="center">
-  <img src="./src/sayori.gif" height="110" alt="Sayori">
-  <img src="./src/yuri.gif" height="110" alt="Yuri">
-  <img src="./src/natsuki.gif" height="110" alt="Natsuki">
-  <img src="./src/monika.gif" height="110" alt="Monika">
+  <img src="./src/sayori.gif" height="130" alt="Sayori">
+  <img src="./src/yuri.gif" height="130" alt="Yuri">
+  <img src="./src/natsuki.gif" height="130" alt="Natsuki">
+  <img src="./src/monika.gif" height="130" alt="Monika">
 </div>
 
 #
@@ -18,7 +18,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   
 #
 
-<img align="right" alt="" height="190px" src="./src/miku2.gif">
+<img align="right" alt="" height="250px" src="./src/miku-invertido.gif">
 
 <h3 align="left">Connect with me!</h3>
 
