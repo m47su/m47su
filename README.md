@@ -20,17 +20,19 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <h3 align="left">Connect with me!</h3>
 
-<a href="mailto:yasminnevessiqueira@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoftoutlook&logoColor=FF00F6" alt="Email" />
-</a>
+<div align="left">
+  <a href="mailto:yasminnevessiqueira@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF00F6" alt="Gmail Badge">
+  </a>
 
-<a href="https://www.linkedin.com/in/yasmin-neves-7a0878248/">
-  <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn" />
-</a>
+  <a href="https://www.linkedin.com/in/yasmin-neves-7a0878248/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn Badge">
+  </a>
 
-<a href="https://www.instagram.com/matsunooo_/?hl=pt-br">
-  <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6" alt="Instagram" />
-</a>
+  <a href="https://www.instagram.com/matsunooo_/?hl=pt-br">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF00F6" alt="Instagram Badge">
+  </a>
+</div>
 
 
 <h3 align="left">My Stack ~</h3>
