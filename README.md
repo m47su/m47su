@@ -63,9 +63,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <h3>* GitHub Stats *</h3>
   
   <a href="https://github.com/m47su">
-    <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=m47su&show_icons=true&theme=dracula&count_private=true" alt="Stats Gerais" />
-    
-    <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=m47su&layout=compact&langs_count=8&theme=dracula" alt="Linguagens" />
+    <img height="170" src="https://streak-stats.demolab.com/?user=m47su&theme=dracula&hide_border=true&card_width=320&fire=FF00F6&ring=FF00F6&currStreakLabel=FF00F6" alt="Streak Stats" />
   </a>
 </div>
 
