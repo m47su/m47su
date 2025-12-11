@@ -62,9 +62,10 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <div align="center">
   <h3>* GitHub Stats *</h3>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=m47su&show_icons=true&theme=dracula&include_all_commits=true&count_private=false&disable_animations=true" alt="Stats" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m47su&layout=compact&langs_count=8&theme=dracula&disable_animations=true" alt="Linguagens" />
+  <a href="https://github.com/m47su">
+    <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=m47su&show_icons=true&theme=dracula&count_private=true" alt="Stats Gerais" />
+    
+    <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=m47su&layout=compact&langs_count=8&theme=dracula" alt="Linguagens" />
   </a>
 </div>
 
