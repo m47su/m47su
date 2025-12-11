@@ -63,13 +63,17 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <h3 align="center">* GitHub Stats *</h3>
   <br>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=m47su&show_icons=true&hide_title=true&hide=issues&bg_color=0d1117&title_color=FF00F6&text_color=FFF&icon_color=FF00F6&theme=synthwave" alt="GitHub stats">
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m47su&layout=compact&hide_title=false&langs_count=6&card_width=320&hide=html,css&bg_color=0d1117&title_color=FF00F6&text_color=FFF&theme=synthwave" alt="Most Used Languages">
-  </a>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=m47su&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=m47su&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=m47su&show_icons=true" />
+</picture>
 </div>
 
 #
