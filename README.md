@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ff5ecf&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
@@ -62,9 +62,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   
   <img src="./src/miku-hatsune-miku.gif" height="100" alt="" style="margin-right: 10px;">
 
-  <a href="https://m47su.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=85F2D3&center=true&vCenter=true&random=false&width=430&lines=%E2%8A%B9+check+my+portfolio!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
+  <a href="https://m47su.github.io/portfolio/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=85F2D3&center=true&vCenter=true&random=false&width=430&lines=%E2%8A%B9+check+my+portfolio!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG"></a>
 
   <img src="./src/miku-hatsune-miku.gif" height="100" alt="" style="margin-left: 10px;">
 
