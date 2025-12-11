@@ -5,10 +5,10 @@
 </div>
 
 <div align="center">
-  <img src="./src/sayori.gif" height="150" alt="Sayori">
-  <img src="./src/yuri.gif" height="150" alt="Yuri">
-  <img src="./src/natsuki.gif" height="150" alt="Natsuki">
-  <img src="./src/monika.gif" height="150" alt="Monika">
+  <img src="./src/sayori.gif" height="200" alt="Sayori">
+  <img src="./src/yuri.gif" height="200" alt="Yuri">
+  <img src="./src/natsuki.gif" height="200" alt="Natsuki">
+  <img src="./src/monika.gif" height="200" alt="Monika">
 </div>
 
 #
@@ -62,10 +62,10 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <div style="text-align: center;" align="center">
   <h3 align="center">* GitHub Stats *</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=m47su&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=m47su&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="">
 
   <a href="https://github.com/m47su/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=m47su&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=m47su&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="">
   </a>
 </div>
 
