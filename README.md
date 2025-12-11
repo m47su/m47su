@@ -58,6 +58,20 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 #
 
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  
+  <img src="./src/miku-hatsune-miku.gif" height="55" alt="" style="margin-right: 10px;">
+
+  <a href="https://m47su.github.io/portfolio/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=85F2D3&center=true&vCenter=true&random=false&width=400&lines=✨+clique+e+veja+meu+portfólio!+✨;⁺‧₊˚+meus+projetos+e+mais+˚₊‧⁺" alt="Link para Portfolio" />
+  </a>
+
+  <img src="./src/miku-hatsune-miku.gif" height="55" alt="" style="margin-left: 10px;">
+
+</div>
+
+#
+
 <div align="center">
   <h3>* GitHub Stats *</h3>
   
