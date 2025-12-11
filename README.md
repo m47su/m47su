@@ -64,7 +64,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <br>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=m47su&show_icons=true&hide_title=true&count_private=true&hide=issues&bg_color=0d1117&title_color=FF00F6&text_color=FFF&icon_color=FF00F6&theme=synthwave" alt="GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=m47su&show_icons=true&hide_title=true&hide=issues&bg_color=0d1117&title_color=FF00F6&text_color=FFF&icon_color=FF00F6&theme=synthwave" alt="GitHub stats">
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
