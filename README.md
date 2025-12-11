@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ff5ecf&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
@@ -60,14 +60,12 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 #
 
 <div align="center">
-  <h3 align="center">* GitHub Stats *</h3>
-  <br>
+  <h3>* GitHub Stats *</h3>
   
-  <a href="https://github.com/m47su">
-    <img src="./github-metrics-stats.svg" height="170" alt="Stats Gerais" />
-    <img src="./github-metrics-langs.svg" height="170" alt="Linguagens Mais Usadas" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=m47su&show_icons=true&theme=dracula&include_all_commits=true&count_private=false&disable_animations=true" alt="Stats" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m47su&layout=compact&langs_count=8&theme=dracula&disable_animations=true" alt="Linguagens" />
   </a>
-  
 </div>
 
 #
