@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
-<img align="center" alt="" src="./src/header2.gif" style="display: block; margin: auto;">
+<img align="center" alt="" src="./src/doki-doki-literature-club-anime.gif" style="display: block; margin: auto;">
 
 #
 
@@ -12,7 +12,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="./src/miku2.gif">
 
 <h3 align="left">Connect with me!</h3>
 
