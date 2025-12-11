@@ -66,8 +66,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <div align="center">
   <h3>* GitHub Stats *</h3>
-  
-  <img src="https://streak-stats.demolab.com/?user=m47su&theme=dark&hide_border=true&background=0d1117&ring=FF00F6&fire=FF00F6&currStreakLabel=FF00F6&sideNums=FFF&sideLabels=FFF&dates=FFF" alt="GitHub Streak" />
+  <img src="./src/heart.gif" height="100" alt="" align="middle"/>
+  <img src="https://streak-stats.demolab.com/?user=m47su&theme=dark&hide_border=true&background=0d1117&ring=FF00F6&fire=FF00F6&currStreakLabel=FF00F6&sideNums=FFF&sideLabels=FFF&dates=FFF" alt="GitHub Streak" /> <img src="./src/heart.gif" height="100" alt="" align="middle"/>
 
 </div>
 
