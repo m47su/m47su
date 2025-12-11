@@ -59,7 +59,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 #
 
 <div align="center">
-  <img src="./src/miku-hatsune-miku.gif" height="140" alt="" align="middle"/> <a href="https://m47su.github.io/portfolio/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=29&pause=1000&color=85F2D3&center=true&vCenter=true&random=false&width=430&lines=%E2%8A%B9+check+my+portfolio!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG" align="middle"/></a> <img src="./src/miku-hatsune-miku.gif" height="140" alt="" align="middle"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7DFFDE&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+check+my+portfolio!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG"></a> <img src="./src/miku-hatsune-miku.gif" height="100" alt="" align="middle"/>
 </div>
 
 #
