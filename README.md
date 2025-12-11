@@ -18,13 +18,19 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   
 #
 
-<img align="right" alt="" height="250px" src="./src/miku-invertido.gif">
-
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:yasminnevessiqueira@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/yasmin-neves-7a0878248/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/matsunooo_/?hl=pt-br)
+<a href="mailto:yasminnevessiqueira@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoftoutlook&logoColor=FF00F6" alt="Email" />
+</a>
+
+<a href="https://www.linkedin.com/in/yasmin-neves-7a0878248/">
+  <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn" />
+</a>
+
+<a href="https://www.instagram.com/matsunooo_/?hl=pt-br">
+  <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6" alt="Instagram" />
+</a>
 
 
 <h3 align="left">My Stack ~</h3>
@@ -64,13 +70,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   
   <img src="https://streak-stats.demolab.com/?user=m47su&theme=dark&hide_border=true&background=0d1117&ring=FF00F6&fire=FF00F6&currStreakLabel=FF00F6&sideNums=FFF&sideLabels=FFF&dates=FFF" alt="GitHub Streak" />
 
-  <br>
-
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=m47su&show_icons=true&hide_title=true&hide=issues&bg_color=0d1117&title_color=FF00F6&text_color=FFF&icon_color=FF00F6&theme=synthwave&disable_animations=true&count_private=true" alt="GitHub Stats" />
-  
-  <br>
-
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=m47su&layout=compact&hide_title=false&langs_count=6&card_width=320&hide=html,css&bg_color=0d1117&title_color=FF00F6&text_color=FFF&theme=synthwave&disable_animations=true" alt="Top Langs" />
 </div>
 
 #
