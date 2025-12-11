@@ -62,9 +62,15 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <div align="center">
   <h3>* GitHub Stats *</h3>
   
-  <a href="https://github.com/m47su">
-    <img height="170" src="https://streak-stats.demolab.com/?user=m47su&theme=dracula&hide_border=true&card_width=320&fire=FF00F6&ring=FF00F6&currStreakLabel=FF00F6" alt="Streak Stats" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=m47su&theme=dark&hide_border=true&background=0d1117&ring=FF00F6&fire=FF00F6&currStreakLabel=FF00F6&sideNums=FFF&sideLabels=FFF&dates=FFF" alt="GitHub Streak" />
+
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=m47su&show_icons=true&hide_title=true&hide=issues&bg_color=0d1117&title_color=FF00F6&text_color=FFF&icon_color=FF00F6&theme=synthwave&disable_animations=true" alt="GitHub Stats" />
+  
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m47su&layout=compact&hide_title=false&langs_count=6&card_width=320&hide=html,css&bg_color=0d1117&title_color=FF00F6&text_color=FFF&theme=synthwave&disable_animations=true" alt="Top Langs" />
 </div>
 
 #
