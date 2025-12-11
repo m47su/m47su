@@ -14,14 +14,14 @@
 #
 
 <p align="center">Estudante universitária de Análise e Desenvolvimento de Sistemas no IFBA e Técnica em Desenvolvimento de Sistemas pelo SENAI. Estudo nas horas vagas e me aventuro a criar projetos!
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras. <img src="./src/madoka-magica-magical.gif" height="20" alt="Madoka">
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 #
 
 <img align="right" alt="" height="250px" src="./src/miku-invertido.gif">
 
 <h3 align="left">Connect with me!</h3>
-
+ <img src="./src/madoka-magica-magical.gif" height="20" alt="Madoka">
 <div align="left">
   <a href="mailto:yasminnevessiqueira@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF00F6" alt="Gmail Badge"></a><a href="https://www.linkedin.com/in/yasmin-neves-7a0878248/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&v=2025" alt="LinkedIn Badge"></a><a href="https://www.instagram.com/matsunooo_/?hl=pt-br"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF00F6" alt="Instagram Badge"></a>
 </div>
