@@ -18,7 +18,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   
 #
 
-<img align="right" alt="" height="250px" margin bottom="10px" src="./src/miku-invertido.gif">
+<img align="right" alt="" height="250px" src="./src/miku-invertido.gif">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -55,6 +55,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo"  />
 </div>
 
+<br clear="all">
+
 #
 
 <div style="text-align: center;" align="center">
@@ -66,12 +68,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=m47su&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
   </a>
 </div>
-
-  <a href="https://github.com/m47su/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=m47su&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
-</div>
-
 
 #
 
