@@ -3,10 +3,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
-<img align="center" alt="" src="./src/sayori.gif" style="display: block; margin: auto;">
-<img align="center" alt="" src="./src/yuri.gif" style="display: block; margin: auto;">
-<img align="center" alt="" src="./src/natsuki.gif" style="display: block; margin: auto;">
-<img align="center" alt="" src="./src/monika.gif" style="display: block; margin: auto;">
+
+<div align="center">
+  <img src="./src/sayori.gif" height="110" alt="Sayori">
+  <img src="./src/yuri.gif" height="110" alt="Yuri">
+  <img src="./src/natsuki.gif" height="110" alt="Natsuki">
+  <img src="./src/monika.gif" height="110" alt="Monika">
+</div>
+
 #
 
 <p align="center">Estudante universitária de Análise e Desenvolvimento de Sistemas no IFBA e Técnica em Desenvolvimento de Sistemas pelo SENAI. Estudo nas horas vagas e me aventuro a criar projetos!
