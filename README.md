@@ -58,12 +58,18 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <br clear="all">
 
 #
+
 <div align="center">
-  <h3>* GitHub Stats *</h3>
+  <h3 align="center">* GitHub Stats *</h3>
+  <br>
   
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%">
+  <a href="https://github.com/m47su">
+    <img src="./github-metrics-stats.svg" height="170" alt="Stats Gerais" />
+    <img src="./github-metrics-langs.svg" height="170" alt="Linguagens Mais Usadas" />
+  </a>
   
 </div>
+
 #
 
 <picture align="center">
